@@ -1,0 +1,2 @@
+# Sherlock-
+Script termux
